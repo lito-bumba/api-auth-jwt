@@ -1,6 +1,5 @@
 package com.litobumba
 
-import com.litobumba.authenticate
 import com.litobumba.data.requests.AuthRequest
 import com.litobumba.data.responses.AuthResponse
 import com.litobumba.data.user.User
